@@ -6,7 +6,7 @@ Add a link to downloading python
 
 Add a link to downloading vs code
 
-[./images/lesson1.PNG]
+[lesson 1 ](./images/lesson1.PNG)
 Strings
    replace()
     strip()
