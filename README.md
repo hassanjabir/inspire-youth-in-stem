@@ -6,7 +6,16 @@ Add a link to downloading python
 
 Add a link to downloading vs code
 
-[lesson 1 ](./images/lesson1.PNG)
+![lesson 1 ](./images/lesson1.PNG)
+![lesson 2](./images/lesson2.PNG)
+![lesson 3](./images/lesson3.PNG)
+![lesson 4](./images/lesson4.PNG)
+![lesson 5](./images/lesson5.PNG)
+![lesson 6](./images/lesson6.PNG)
+![lesson 7](./images/lesson7.PNG)
+![lesson 8](./images/lesson8.PNG)
+
+
 Strings
    replace()
     strip()
