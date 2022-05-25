@@ -36,3 +36,8 @@ Strings
 
 ## week six pich competition ,campus tour
 
+write a program to wuthdrawksh 25000 if account balance is between 100000 to 200000
+
+30% if the account balannce is between 100000 to 200000
+
+above one million deduct fifteen thousand
