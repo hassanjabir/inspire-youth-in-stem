@@ -41,3 +41,15 @@ write a program to wuthdrawksh 25000 if account balance is between 100000 to 200
 30% if the account balannce is between 100000 to 200000
 
 above one million deduct fifteen thousand
+
+
+# GIT COMMANDS
+
+## git add * (all the lessons at once)
+## git commit -m "lesson7 on statements"
+## git branch -m main
+
+## git config --global user.name="jabirhassan"
+## git config --global user.email=(jabirhassan670@gmail.com)
+## git remote add main https://github.com/hassanjabir/inspire-youth-in-stem
+## git push
