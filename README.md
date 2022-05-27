@@ -53,3 +53,9 @@ above one million deduct fifteen thousand
 ## git config --global user.email=(jabirhassan670@gmail.com)
 ## git remote add main https://github.com/hassanjabir/inspire-youth-in-stem
 ## git push
+
+## operators
+## < less than
+## > greater than 
+## <= less than equal to
+## >= greater than equal to
