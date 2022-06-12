@@ -25,5 +25,6 @@ student["name"] ="junior"
 #print(student)
 del student["hobby"]
 print(student)
+mary_fav_food =['beef','chicken',"pilau"]
 
 

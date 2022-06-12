@@ -1,0 +1,21 @@
+### this is a normal text file
+### learning is a bit fun and challenging
+### plus today was the first day of the week hemce the chilly and somber mood!!!#
+
+
+open file file_name.open()
+write file write()
+append append ()
+close -close()
+read -read()
+seeek seak("a) sec (3)
+
+f= open("lesson.txt")
+f append("lesson.txt",'w')
+r = reading
+w = writing
+x = create new file
+f = open ('lesson2.txt','x')
+a = append file 
+t = opems file in text mode
++ = opens a file for reading and writing

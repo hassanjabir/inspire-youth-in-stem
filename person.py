@@ -23,9 +23,19 @@ person_1.sayHi()
 person_2 =person("jabir", str(22))
 person_2.sayHi()
 
+class Vehicle:
+
+     def __init__(self,max_speed,mileage):
+
+          self.max_speed= max_speed
+          self.mileage= mileage
+
+toyota = Vehicle('300km/hr,4000km')
+
+print(toyota.max_speed,toyota.mileage)
 
 
-    
+
 
 
 

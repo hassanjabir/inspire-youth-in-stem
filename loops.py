@@ -7,3 +7,6 @@ print(school[3]),(pupil[3])
 sentence= "hello i am   (pupil)"
 for pupil in pupil:
     print(f'hello i am pupil {pupil}')
+
+
+

@@ -3,8 +3,9 @@
 day 1: installing python 
 
 Add a link to downloading python
-
+https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe
 Add a link to downloading vs code
+https://code.visualstudio.com/download
 
 ![lesson 1 ](./images/lesson1.PNG)
 ![lesson 2](./images/lesson2.PNG)
@@ -59,3 +60,10 @@ above one million deduct fifteen thousand
 ## > greater than 
 ## <= less than equal to
 ## >= greater than equal to
+
+## End of week four ths marked the end of the python module that was particularly very intresting and intensive
+
+## the projects that were conducted were the following:
+          ## creating an analog clocck using the tkinter
+          ## creating a user interface module
+          ## 
